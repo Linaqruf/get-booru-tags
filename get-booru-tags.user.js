@@ -3,7 +3,7 @@
 // @namespace    https://github.com/onusai/
 // @version      0.5.1
 // @description  Press the [~] tilde key under ESC to open a prompt with all tags including improved tag ordering
-// @author       Onusai#6441
+// @author       Linaqruf
 // @match        https://gelbooru.com/index.php?page=post&s=view*
 // @match        https://safebooru.donmai.us/posts/*
 // @match        https://danbooru.donmai.us/posts/*
